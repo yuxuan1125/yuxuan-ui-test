@@ -1,6 +1,6 @@
-# mgtv-ui
+# yuuitest
 
-> mgtv-ui build
+> yuuitest build
 
 ## Build Setup
 

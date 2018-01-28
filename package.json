@@ -1,7 +1,7 @@
 {
-  "name": "mgtv-ui",
+  "name": "yuuitest",
   "version": "1.0.0",
-  "description": "mgtv-ui build",
+  "description": "yuuitest build",
   "author": "yuxuan",
   "private": true,
   "scripts": {
