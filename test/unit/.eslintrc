@@ -1,9 +1,7 @@
 {
-  "env": { 
-    "mocha": true
+  "env": {
+    "jest": false
   },
-  "globals": { 
-    "expect": true,
-    "sinon": true
+  "globals": {
   }
 }

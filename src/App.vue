@@ -1,36 +1,23 @@
 <template>
   <div id="app">
-    <div id="aside">
-      <!-- nav -->
-    </div>
-    <div id="demo-wrap">
-      <transition name="fade">
-        <router-view></router-view>
-      </transition>
-    </div>
-    
+    <router-view/>
   </div>
 </template>
 
 <script>
 export default {
-  name: 'app'
+  name: 'Appfsdfds'
 }
 </script>
-<style lang="scss">
-@import "./comps/styles/index";
 
+
+<style>
 #app {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-}
-#aside{
-  background: $body-background;
-}
-.xm__grids .xm__grid--icon {
-  height: 45px;
+  margin-top: 60px;
 }
 </style>
